@@ -1,9 +1,9 @@
 import './App.scss';
-import { FirstComponent } from './components/FirstComponent';
+import { Block } from './components/Block';
 
 function App() {
   return (
-    <FirstComponent />
+    <Block />
   );
 }
 
